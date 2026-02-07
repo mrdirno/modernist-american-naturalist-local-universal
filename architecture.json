@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-american-naturalist-local-universal",
+  "title": "The Seams in the Bowl",
+  "tagline": "In a forgotten bend of the river, a brother and sister fight the land and their lineage to find the shape fate has already carved for them.",
+  "target_words": 70218,
+  "actual_words": 70218,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inheritance and Constraint",
+    "The Violence of Nature",
+    "Poverty and Resilience",
+    "The Search for Form"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Shape Held in the Clay",
+      "words": 5851
+    },
+    {
+      "ch": 2,
+      "title": "A Taut Line in the Gray",
+      "words": 5851
+    },
+    {
+      "ch": 3,
+      "title": "The Currency of a Pale Ghost",
+      "words": 5851
+    },
+    {
+      "ch": 4,
+      "title": "The Hands That Would Be Claws",
+      "words": 5851
+    },
+    {
+      "ch": 5,
+      "title": "The Slow Dissolution of Rain",
+      "words": 5851
+    },
+    {
+      "ch": 6,
+      "title": "A Scar of Yellow Clay",
+      "words": 5851
+    },
+    {
+      "ch": 7,
+      "title": "The Hum of a New Order",
+      "words": 5851
+    },
+    {
+      "ch": 8,
+      "title": "A Flaw in the Metal",
+      "words": 5851
+    },
+    {
+      "ch": 9,
+      "title": "The Seams in the Bowl",
+      "words": 5851
+    },
+    {
+      "ch": 10,
+      "title": "The Geometry of an Erasure",
+      "words": 5851
+    },
+    {
+      "ch": 11,
+      "title": "The Knife Prying the Fist",
+      "words": 5851
+    },
+    {
+      "ch": 12,
+      "title": "A Calibration of Current and Grain",
+      "words": 5851
+    }
+  ]
+}
